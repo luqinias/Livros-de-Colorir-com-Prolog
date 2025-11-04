@@ -38,7 +38,7 @@ solucao_otimizada(Fila) :-
     % Renata está ao lado da mulher Natureza (L1). Natureza na P1 -> Renata na P2.
     M2 = renata,
     
-    % 4. Aplicação das Restrições de Vizinhança e Ordem (Otimizadas)
+    % 4. Aplicação das Restrições de Vizinhança e Ordem
     
     % A dona da bolsa Azul está exatamente à esquerda da mulher de 36 anos (I4).
     B3 = azul,
